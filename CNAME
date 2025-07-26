@@ -1,1 +1,4 @@
-clark0712.dpdns.org
+echo "clark0712.dpdns.org" > CNAME  # 或 "clark0712.dpdns.org"
+git add CNAME
+git commit -m "Add CNAME"
+git push
